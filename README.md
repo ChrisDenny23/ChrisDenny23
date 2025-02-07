@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chris Denny
 - 👀 I’m interested in Gaming and coding
-- 🌱 I’m currently learning java and javascript side by side
+- 🌱 I’m currently learning flutter development
+-Starting with DSA and leetcode too
 - 💞️ I’m looking to collaborate on various projects through github and gain more experience and knowledge
 - 📫 How to reach me - I have linked my instagram handle and mails on my profile 
 - 😄 Pronouns: He/him
