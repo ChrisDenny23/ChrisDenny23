@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+Denny!;" />
 </h1>
 
-<h3 align="center">A passionate mobile app developer from India </h3>
+<h3 align="center">A passionate mobile app developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a dating app**
+ 🔭 I’m currently working on **a hackathon hosting SaaS Platform**
  
  🌱 I’m currently learning **Kotlin, Swift, MongoDb**
 
